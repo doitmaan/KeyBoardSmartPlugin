@@ -1,1 +1,1 @@
-# AutoCorrect-SmartSuggest
+# SmartKeyBoardAdvisor-AutoCorrect
